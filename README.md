@@ -1,4 +1,4 @@
-## Hello, I am Tetsuo. Recent Statistic and Data Science graduate at the University of Colorado Boulder. 
+Hello, I am Tetsuo. Recent Statistic and Data Science graduate at the University of Colorado Boulder. 
 
 - Statistical data analysis using R.
 - Data modeling using R.
