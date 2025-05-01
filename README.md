@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hello, I am Tetsuo. Recent Statistic and Data Science graduate at the University of Colorado Boulder. 
+
+- Statistical data analysis using R.
+- Data modeling using R.
+- ETL JSON data using Python.
+- Data reporting using Excel.
+
+### Projects
+
+Explore my portfolio, where I present my projects. 
+
+### Tools
+
+- Language: R, Python, Excel
+- Database: SQL
+- Visualization: R, Python
 
 <!--
 **tetsuolox/tetsuolox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
